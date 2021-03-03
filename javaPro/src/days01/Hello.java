@@ -6,8 +6,11 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		
-		// ���ǽǿ��� �߰� �ڵ�
+		// 강의실에서 추가 코딩
 		System.out.println("Hi!");
+		
+		// 홍길동 팀원이 코딩 추가/수정
+		System.out.println("Hong Edit");
 	}
 
 }
