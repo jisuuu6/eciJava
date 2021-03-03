@@ -8,6 +8,11 @@ public class Hello {
 		
 		// 강의실에서 추가 코딩
 		System.out.println("Hi!");
+		
+		// 김명준 팀원이 코딩 추가
+		int age = 30;
+		String name = "김명준";
+		
 	}
 
 }
