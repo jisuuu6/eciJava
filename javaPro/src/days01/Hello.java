@@ -6,13 +6,15 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		
-		// °­ÀÇ½Ç¿¡¼­ Ãß°¡ ÄÚµù
+		// ê°•ì˜ì‹¤ì—ì„œ ì¶”ê°€ ì½”ë”©
 		System.out.println("Hi!");
+
+		// í™ê¸¸ë™ íŒ€ì›ì´ ì½”ë”© ì¶”ê°€/ìˆ˜ì •
+		System.out.println("Hong Edit");
 		
-		// ±è¸íÁØ ÆÀ¿øÀÌ ÄÚµù Ãß°¡
+		// ê¹€ëª…ì¤€ íŒ€ì›ì´ ì½”ë”© ì¶”ê°€
 		int age = 30;
-		String name = "±è¸íÁØ";
-		
+		String name = "ê¹€ëª…ì¤€";
 	}
 
 }
